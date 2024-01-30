@@ -1,0 +1,51 @@
+.container{
+  
+   height: fit-content;
+   width: fit-content;
+    margin-top: 220px;
+    margin-left: 400px;
+   
+}
+
+.Name-box{
+   display:flex;
+   justify-content:center;
+   align-items: center;
+   gap: 5px;
+}
+
+input {
+    margin-top: 20px;
+    border-radius:10px;
+    height: 50px;
+    width: 200px; 
+    border: 0.5px solid rgb(214, 234, 247);
+    font-size: medium ;
+   
+}
+
+input:hover{
+    cursor: pointer;
+}
+
+.other-box{
+    display: block;
+}
+
+button{
+    background-color: rgb(119, 119, 192);
+    color:white ;
+    border-radius: 10px;
+    font-weight: 400;
+    width: px;
+    height: 50px;  
+    width: 410px;
+    display: block;
+    margin-top: 20px;
+}
+
+button:hover{
+    cursor: pointer;
+    border: 0cap;
+}
+
